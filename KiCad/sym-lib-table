@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SmartWatchLCD)(type Legacy)(uri ${KIPRJMOD}/SmartWatchLCD.lib)(options "")(descr ""))
+)
