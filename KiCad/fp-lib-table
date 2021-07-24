@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SmartwatchPCB)(type KiCad)(uri "$(KIPRJMOD)/SmartwatchPCB.pretty")(options "")(descr ""))
+  (lib (name ATSAML22G18A-MUT)(type Legacy)(uri /home/dave/Downloads/ATSAML22G18A-MUT/KiCad/ATSAML22G18A-MUT.mod)(options "")(descr ""))
+)
