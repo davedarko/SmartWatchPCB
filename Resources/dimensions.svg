@@ -31,7 +31,7 @@
      inkscape:cx="182.66452"
      inkscape:cy="118.52924"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -379,7 +379,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
+     inkscape:label="PCB_scan"
      sodipodi:insensitive="true"
      transform="translate(-57.685592,-120.08637)"
      style="display:none">
@@ -415,21 +415,6 @@
        height="14"
        x="1.3500004"
        y="-8.1015825" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer7"
-     inkscape:label="old_pcb"
-     style="display:none"
-     transform="translate(35.364884,17.014643)">
-    <rect
-       style="opacity:1;fill:#008000;fill-opacity:0.25;stroke:none;stroke-width:8.66007"
-       id="rect965"
-       width="26"
-       height="23.6"
-       x="93.050476"
-       y="137.10101"
-       transform="translate(-93.050476,-137.10101)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -590,5 +575,20 @@
          y="21.88555"
          style="font-size:3.52778px;stroke-width:0.264583"
          id="tspan948">USB</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="old_pcb"
+     style="display:inline"
+     transform="translate(35.364884,17.014643)">
+    <rect
+       style="opacity:1;fill:#008000;fill-opacity:0.25;stroke:none;stroke-width:8.66007"
+       id="rect965"
+       width="26"
+       height="23.6"
+       x="93.050476"
+       y="137.10101"
+       transform="translate(-93.050476,-137.10101)" />
   </g>
 </svg>

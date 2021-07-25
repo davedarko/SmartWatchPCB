@@ -1,4 +1,4 @@
-19215247160048282
+19220128708244052
 ATSAML22G18A-MUT
 QFN50P700X700X90-49N-D
 48 QFN-
@@ -76691,6 +76691,20 @@ B.Fab_layer12
 0
 0
 0
+SmartwatchPCB
+button
+
+
+0
+2
+2
+SmartwatchPCB
+display
+
+
+0
+22
+22
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
@@ -77755,6 +77769,13 @@ Logo WEEE
 0
 0
 0
+TFBS4711-TT1
+TFBS4711TT1
+TFBS4711-TT1-2
+Integrated Circuit
+0
+6
+6
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
