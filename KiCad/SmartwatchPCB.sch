@@ -742,7 +742,7 @@ F 3 "~" H 8400 2250 50  0001 C CNN
 	1    8400 2250
 	1    0    0    -1  
 $EndComp
-Text GLabel 3000 3700 0    50   Input ~ 0
+Text GLabel 3900 4700 2    50   Input ~ 0
 KEYPAD_1
 Text GLabel 3000 3800 0    50   Input ~ 0
 KEYPAD_2
@@ -942,9 +942,9 @@ Text GLabel 1500 4500 1    50   Input ~ 0
 PIEZO
 Text GLabel 3000 3300 0    50   Input ~ 0
 PIEZO
-Text GLabel 3000 3500 0    50   Input ~ 0
-IR_RX
 Text GLabel 3000 3600 0    50   Input ~ 0
+IR_RX
+Text GLabel 3000 3500 0    50   Input ~ 0
 IR_TX
 Text GLabel 3000 2700 0    50   Input ~ 0
 VCC_CORE
@@ -1006,6 +1006,6 @@ Wire Wire Line
 Connection ~ 2950 4600
 Text GLabel 6000 3200 0    50   Input ~ 0
 IR_MODE
-Text GLabel 3900 4700 2    50   Input ~ 0
+Text GLabel 3000 3700 0    50   Input ~ 0
 IR_MODE
 $EndSCHEMATC
