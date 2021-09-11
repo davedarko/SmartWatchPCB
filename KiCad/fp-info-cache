@@ -1,4 +1,4 @@
-19089856732159261
+19091491618097261
 Battery
 BGA-25_5x5_6.0x6.0mm
 
@@ -76675,8 +76675,8 @@ TFBS4711
 
 
 0
-0
-0
+6
+6
 SmartwatchPCB
 button
 
@@ -76686,6 +76686,13 @@ button
 2
 SmartwatchPCB
 display
+
+
+0
+22
+22
+SmartwatchPCB
+display_MOUNT
 
 
 0
