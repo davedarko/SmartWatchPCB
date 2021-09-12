@@ -1,5 +1,5 @@
 
-update=So 25 Jul 2021 13:32:00 CEST
+update=2021 September 12, Sunday 17:00:52
 version=1
 last_client=kicad
 [cvpcb]
@@ -17,6 +17,9 @@ NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=50
 ERC_TestSimilarLabels=1
+[eeschema]
+version=1
+LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -40,8 +43,8 @@ dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
 SilkLineWidth=0.15
-SilkTextSizeV=1
-SilkTextSizeH=1
+SilkTextSizeV=0.6
+SilkTextSizeH=0.6
 SilkTextSizeThickness=0.15
 SilkTextItalic=0
 SilkTextUpright=1
@@ -241,6 +244,3 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[eeschema]
-version=1
-LibDir=
