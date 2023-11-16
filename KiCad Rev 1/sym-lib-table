@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SmartWatchLCD")(type "Legacy")(uri "${KIPRJMOD}/SmartWatchLCD.lib")(options "")(descr ""))
+  (lib (name "SAML22G")(type "Legacy")(uri "${KIPRJMOD}/SAML22G.lib")(options "")(descr ""))
+  (lib (name "IR_transceiver")(type "Legacy")(uri "${KIPRJMOD}/IR_transceiver.lib")(options "")(descr ""))
+  (lib (name "SmartwatchPCB-rescue")(type "KiCad")(uri "${KIPRJMOD}/SmartwatchPCB-rescue.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,24 @@
+(module button (layer F.Cu) (tedit 61080E52)
+  (fp_text reference REF** (at 0.127 1.778) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value button (at 0 -1.651) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd custom (at 0 -0.762) (size 3.048 0.254) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -1.016 1.144) (xy 1.523 1.144) (xy 1.523 -0.128) (xy 1.26 -0.128) (xy 1.26 0.88)
+         (xy -1.016 0.88)) (width 0))
+    ))
+  (pad 2 smd custom (at 0 0.762 180) (size 3.048 0.254) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -1.016 1.144) (xy 1.523 1.144) (xy 1.523 -0.128) (xy 1.26 -0.128) (xy 1.26 0.88)
+         (xy -1.016 0.88)) (width 0))
+    ))
+)

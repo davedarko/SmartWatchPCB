@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SmartwatchPCB)(type KiCad)(uri "$(KIPRJMOD)/SmartwatchPCB.pretty")(options "")(descr ""))
+)
